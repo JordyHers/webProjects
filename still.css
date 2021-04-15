@@ -1,0 +1,41 @@
+h1{
+font-family:verdana;
+font-size:12pt;
+color:teal;
+text-align:center;
+}
+
+p{
+font-family: verdana;
+font-size: 18pt;
+color: blue;
+text-align: center; 
+}
+
+/*a{
+padding-top: 40pt;
+padding-left: 10pt;
+padding-right: 0pt;
+padding-bottom: 40pt;
+
+font-family: helveatica;
+font-size: 18pt;
+color: orange;
+text-align: center; 
+}*/
+
+
+h2{
+font-family:arial;
+font-size:1pt;
+color:silver;
+text-align:center;
+
+}
+h3{
+font-family: times new roman;
+font-size:12pt;
+color:yellow;
+text-align:center;
+
+}
